@@ -5,7 +5,7 @@ use htmlstream::*;
 /*
 Author: Mo Ashouri
 Contract: ashourics@gmail.com
-GutHub: @mohammadreza-ashouri
+GitHub: @mohammadreza-ashouri
 Web: https://ashoury.net
 
 This helper protect backend services against XSS attack rising from non(correctly)-sanitized inputs from different sources (network, file, db, etc.)
