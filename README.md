@@ -1,4 +1,4 @@
-## Rusty XSS: a Rust Library to Protect Rust Code Agains XSS Attack
+## Rusty XSS: a Rust Library to Protect Rust Code Against XSS Attack
 
 
 This helper library tp protect backend services against XSS attack, rising from non(correctly)-sanitized inputs from different sources (network, file, db, etc.)
